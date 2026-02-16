@@ -35,10 +35,6 @@ I cut through the noise by building agent workflows tailored to your business, s
 - **[BCB Group](https://www.bcbgroup.com/)** - BCB Group is a financial services group with digital asset specialism.
 - **[Mantra](https://mantrachain.io/)** - MANTRA is a first of its kind, vertically-integrated and regulatory compliant blockchain ecosystem.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/eusthace811)
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-@jlsuarez-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jlsuarez)
