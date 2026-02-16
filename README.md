@@ -27,7 +27,7 @@ I cut through the noise by building agent workflows tailored to your business, s
 
 - **[Sparked](https://sparked.world/)** - Private AI for creatives & teams who want to own what they make.
 
-> - **[App](http://app.sparked.world/)** > - Unified access to major LLMs, private models and workflows.
+> - **[App](http://app.sparked.world/)** - Unified access to major LLMs, private models and workflows.
 > - **[Infinite Canvas](http://canvas.sparked.world/)** - AI-powered image and video studio. 
 > - **[Video Editor](http://studio.sparked.world/)** - Enable AI models for video production in the browser.
 > - **[AI Toolkit](http://train.sparked.world/)** - Train your own models & styles (LORAs).
@@ -41,9 +41,10 @@ I cut through the noise by building agent workflows tailored to your business, s
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@jlsuarez-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/jlsuarez)
+[![X](https://img.shields.io/badge/-@jlsuarez-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jlsuarez)
 [![LinkedIn](https://img.shields.io/badge/-juanluissuarez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanluissuarez/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eusthace811)
+
 
 ---
 
@@ -52,7 +53,7 @@ I cut through the noise by building agent workflows tailored to your business, s
 > "Build with AI, not around it." I design systems where agents are first-class builders, not helpers. My focus is on execution, composability, and making powerful AI tooling practical to run and own.
 
 <details>
-<summary>Random Facts</summary>
+<summary>More</summary>
 
 * Treat AI agents as autonomous coworkers, not chatbots
 * Regularly run multiple Claude Code sessions in parallel inside isolated micro VMs
