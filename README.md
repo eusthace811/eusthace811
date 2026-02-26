@@ -21,6 +21,7 @@ I cut through the noise by building agent workflows tailored to your business, s
 - 👉 **[Noid CLI](https://github.com/noid-one/noid-cli)** - Noid is a lightweight micro-VM orchestration tool for isolating AI agents — with checkpoint and restore built in.
 - 📣 **[Noid SDK](https://github.com/noid-one/noid-js)** - TypeScript SDK for the Noid VM platform.
 - 📄 **[Noid RAG CLI](https://github.com/noid-one/noid-rag)** - A CLI for building, managing, testing, and optimizing Retrieval-Augmented Generation pipelines.
+- 📝 **[Noid Task CLI](https://github.com/noid-one/noid-task)** - A minimal CLI for managing Noid micro-VMs through an integrated tmux session with a 2-column grid layout, live sidebar, and system clipboard support.
 - 🤖 **[Hoshi AI Vtuber](https://www.twitch.tv/hoshi818)** - AI Companion.
 - 👍 **[Featurebase MCP Server](https://github.com/eusthace811/featurebase-mcp)** - MCP server for Featurebase API, includes posts, comments and changelogs. 
 
