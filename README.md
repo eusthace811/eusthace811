@@ -35,6 +35,7 @@ I cut through the noise by building agent workflows tailored to your business, s
 > - **[AI Toolkit](http://train.sparked.world/)** - Train your own models & styles (LORAs).
 
 - **[BCB Group](https://www.bcbgroup.com/)** - BCB Group is a financial services group with digital asset specialism.
+> - **[BCB Console](https://console.bcb.group/)** - One Platform. Pay, store, trade, and earn fiat and digital assets globally.
 - **[Mantra](https://mantrachain.io/)** - MANTRA is a first of its kind, vertically-integrated and regulatory compliant blockchain ecosystem.
 
 ## Connect
