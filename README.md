@@ -25,6 +25,7 @@ I cut through the noise by building agent workflows tailored to your business, s
 - 🦜 **[Noid Bot](https://github.com/noid-one/noid-bot)** - An open-source alternative to Grok Bot, built on pi-durable.
 - 🔎 **[ogrep](https://github.com/eusthace811/ogrep)** - Indexed, ripgrep-compatible code search that reads only the files that can match, with an optional server.
 - 🕸️ **[ograph](https://github.com/eusthace811/ograph)** - Ontology-driven observability knowledge graph.
+- 🪟 **[zmux](https://github.com/eusthace811/zmux)** - tmux-style panes for Windows Git Bash, with persistent detachable sessions and a control CLI for AI agents.
 - 🤖 **[Hoshi AI Vtuber](https://www.twitch.tv/hoshi818)** - AI Companion.
 - 👍 **[Featurebase MCP Server](https://github.com/eusthace811/featurebase-mcp)** - MCP server for Featurebase API, includes posts, comments and changelogs. 
 
