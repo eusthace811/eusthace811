@@ -22,6 +22,9 @@ I cut through the noise by building agent workflows tailored to your business, s
 - 📣 **[Noid SDK](https://github.com/noid-one/noid-js)** - TypeScript SDK for the Noid VM platform.
 - 📄 **[Noid RAG CLI](https://github.com/noid-one/noid-rag)** - A CLI for building, managing, testing, and optimizing Retrieval-Augmented Generation pipelines.
 - 📝 **[Noid Task CLI](https://github.com/noid-one/noid-task)** - A minimal CLI for managing Noid micro-VMs through an integrated tmux session with a 2-column grid layout, live sidebar, and system clipboard support.
+- 🦜 **[Noid Bot](https://github.com/noid-one/noid-bot)** - An open-source alternative to Grok Bot, built on pi-durable.
+- 🔎 **[ogrep](https://github.com/eusthace811/ogrep)** - Indexed, ripgrep-compatible code search that reads only the files that can match, with an optional server.
+- 🕸️ **[ograph](https://github.com/eusthace811/ograph)** - Ontology-driven observability knowledge graph.
 - 🤖 **[Hoshi AI Vtuber](https://www.twitch.tv/hoshi818)** - AI Companion.
 - 👍 **[Featurebase MCP Server](https://github.com/eusthace811/featurebase-mcp)** - MCP server for Featurebase API, includes posts, comments and changelogs. 
 
